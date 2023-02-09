@@ -5,8 +5,3 @@ The system features basic CRUD (Create, Read, Update, Delete) operations to allo
 The project also includes functionalities such as generating bills based on the electricity consumption of the customers, managing customer payments, and generating various reports such as bill payment reports, electricity consumption reports, and customer reports.
 
 In summary, the Electric Billing System is a comprehensive solution that simplifies the billing process and helps electricity providers to manage their customers efficiently.
-
-
-
-
-Regenerate response
